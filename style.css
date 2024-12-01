@@ -1,0 +1,23 @@
+.skills{
+    background-color: aqua;
+}
+.experience{
+    background-color: aqua;
+}
+.aboutmee{
+    background-color: aqua;
+    text-decoration: none !important;
+}
+.name{
+    text-align: center;
+    font-size:40px;
+}
+.img{
+    text-align: center;
+}
+.img p{
+    font-size: 30px;
+}
+.name{
+    text-align: center;
+}
